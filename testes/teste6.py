@@ -1,3 +1,7 @@
+"""Exercise: Body Mass Index
+Write a program that calculates and prints the Body Mass Index (BMI) from a
+user's weight and height."""
+
 # 1st input: enter height in meters e.g: 1.65
 height = input("Quanto é sua altura em m? ")
 # 🚨 Don't change the code above 👆

@@ -1,3 +1,6 @@
+"""Exercise: Days in a Month
+Write a program that works out the number of days in a month."""
+
 age = input()
 # 🚨 Don't change the code above 👆
 # Write your code below this line 👇
