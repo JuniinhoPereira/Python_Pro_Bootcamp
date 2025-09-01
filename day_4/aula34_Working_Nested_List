@@ -1,0 +1,12 @@
+fruits = ["Strawberry", "Nectarine", "Apple", "Grape",
+          "Watermelon", "Cherry", "Pear"]  # List of fruits
+
+vegetables = ["Spinach", "Kale", "Tomato",
+              "Celery", "Potato"]  # List of vegetables
+
+dirty_dozen = [fruits, vegetables]  # List of fruits and vegetables
+
+print(dirty_dozen)
+
+print(dirty_dozen[0])
+print(dirty_dozen[1])
